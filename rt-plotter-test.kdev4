@@ -1,0 +1,4 @@
+[Project]
+Name=rt-plotter-test
+Manager=KDevCMakeManager
+VersionControl=kdevgit
